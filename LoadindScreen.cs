@@ -12,8 +12,6 @@ public class LoadindScreen : MonoBehaviour
     [SerializeField]
     private Text loadText;
 
-    [SerializeField]
-    private Button button;
 
     void Start()
     {
